@@ -1,4 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,700&family=Roboto+Mono&display=swap');
+
+#name{
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+    color: #0011ff;
+    font-weight: bold; 
+    font-size: 25
+  
+  
+}
 .calculator {
     border: 0.5rem outset pink;
     outline: 0.5rem solid khaki;
